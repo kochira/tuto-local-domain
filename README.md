@@ -33,3 +33,4 @@ Puis, ajoutez une entrée supplémentaire comme dans l'exemple suivant :
 </VirtualHost>
 ```
 
+> **Pour finir, pensez a redémarrer votre serveur Apache.**
